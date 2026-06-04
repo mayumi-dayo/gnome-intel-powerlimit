@@ -1,0 +1,7 @@
+{
+  "uuid": "powerlimit@mei",
+  "name": "Power Limit",
+  "description": "Adds a top-bar menu for throttled power limits and Turbo Boost.",
+  "shell-version": ["50"],
+  "version": 1
+}
